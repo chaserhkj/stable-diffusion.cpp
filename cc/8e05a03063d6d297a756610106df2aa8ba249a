@@ -1,0 +1,16 @@
+src/core/tensor.hpp
+  h_8d23b84102cdcd 1076-1084
+src/runtime/lanpaint.hpp
+  h_8d23b84102cdcd 1-341
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.6",
+  "base_commit_sha": "cc8e05a03063d6d297a756610106df2aa8ba249a",
+  "prompts": {},
+  "humans": {
+    "h_8d23b84102cdcd": {
+      "author": "Chaser Huang <huangkangjing@gmail.com>"
+    }
+  }
+}
