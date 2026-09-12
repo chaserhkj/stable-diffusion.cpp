@@ -1,0 +1,33 @@
+examples/common/common.cpp
+  h_8d23b84102cdcd 1127-1133,1223-1230,1232-1242,1314-1323
+  h_8d23b84102cdcd 1126,1231
+src/runtime/denoiser.hpp
+  h_8d23b84102cdcd 1567
+src/runtime/guidance.h
+  h_8d23b84102cdcd 19
+include/stable-diffusion.h
+  h_8d23b84102cdcd 284,286-300
+src/pipeline/diffusion_engine.cpp
+  h_8d23b84102cdcd 44,2101-2102,2151-2156,2189-2223,2246,2510-2522,2537-2588
+src/pipeline/diffusion_engine.h
+  h_8d23b84102cdcd 438-439
+src/pipeline/image.cpp
+  h_8d23b84102cdcd 871-873,995-997
+src/pipeline/video.cpp
+  h_8d23b84102cdcd 1531-1532,1575-1576,1715-1716
+src/runtime/lanpaint.hpp
+  h_8d23b84102cdcd 70-75,168,246,293,304
+src/stable-diffusion.cpp
+  h_8d23b84102cdcd 425-433,487-508
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.6",
+  "base_commit_sha": "ae38eb6e3ab1faf80bdbf8619eb14504601e134a",
+  "prompts": {},
+  "humans": {
+    "h_8d23b84102cdcd": {
+      "author": "Chaser Huang <huangkangjing@gmail.com>"
+    }
+  }
+}
