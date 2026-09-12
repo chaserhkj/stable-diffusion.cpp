@@ -1,0 +1,14 @@
+src/runtime/lanpaint.hpp
+  h_8d23b84102cdcd 87-92,99-100,104-107
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.6",
+  "base_commit_sha": "7c7fc145a0b72b1079bdddc53d4f693318c8ca57",
+  "prompts": {},
+  "humans": {
+    "h_8d23b84102cdcd": {
+      "author": "Chaser Huang <huangkangjing@gmail.com>"
+    }
+  }
+}
