@@ -1,0 +1,16 @@
+src/pipeline/diffusion_engine.cpp
+  h_8d23b84102cdcd 2614-2617,2636
+src/runtime/lanpaint.hpp
+  h_8d23b84102cdcd 14-19,117-119,127-130,136,142,323-325,368,371-373
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.6",
+  "base_commit_sha": "3f75c631fa3857935fe4665553d6f9243fe0d84f",
+  "prompts": {},
+  "humans": {
+    "h_8d23b84102cdcd": {
+      "author": "Chaser Huang <huangkangjing@gmail.com>"
+    }
+  }
+}
