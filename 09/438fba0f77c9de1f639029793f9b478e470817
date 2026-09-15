@@ -1,0 +1,18 @@
+docs/lanpaint.md
+  h_8d23b84102cdcd 1-97
+README.md
+  h_8d23b84102cdcd 82,161
+examples/cli/README.md
+  h_8d23b84102cdcd 17-19
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.6",
+  "base_commit_sha": "09438fba0f77c9de1f639029793f9b478e470817",
+  "prompts": {},
+  "humans": {
+    "h_8d23b84102cdcd": {
+      "author": "Chaser Huang <huangkangjing@gmail.com>"
+    }
+  }
+}
