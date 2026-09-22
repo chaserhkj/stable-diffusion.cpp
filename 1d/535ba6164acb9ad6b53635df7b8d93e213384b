@@ -1,0 +1,26 @@
+docs/adetailer.md
+  h_8d23b84102cdcd 3-21,72-93,138-144
+examples/cli/main.cpp
+  h_8d23b84102cdcd 595,599-600,604-606,680-681
+examples/common/common.cpp
+  h_8d23b84102cdcd 1036-1040,1043,1505-1569,1783-1786,2554-2564,2672-2700,2957-2968,2979-2980,3118-3120,3125-3135,3292-3296,3303-3315
+examples/common/common.h
+  h_8d23b84102cdcd 202-203,318-322
+include/stable-diffusion.h
+  h_8d23b84102cdcd 554-573,578-581,584-591
+src/detailer.cpp
+  h_8d23b84102cdcd 40-88,324-325,328-331,333-342,344,348,352,360,366,371-374,470-478,480,482,484-495,497,499,502-504,506,508-509,514-637,800-824,970-972,1088-1096,1123,1133-1149,1157,1167,1177,1227
+src/detailer.h
+  h_8d23b84102cdcd 30-56
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.6",
+  "base_commit_sha": "1d535ba6164acb9ad6b53635df7b8d93e213384b",
+  "prompts": {},
+  "humans": {
+    "h_8d23b84102cdcd": {
+      "author": "Chaser Huang <huangkangjing@gmail.com>"
+    }
+  }
+}
